@@ -14,4 +14,6 @@ CREATE TABLE `contact_form` (
 
 以上為資料表的設計<br>
 index.php 為 首頁(資料顯示頁面)<br>
-action.php 為 資料撈取新增頁面
+![image](https://github.com/wenying823/contact_form/blob/main/Index.png) <br>
+action.php 為 資料撈取新增頁面 <br>
+![image](https://github.com/wenying823/contact_form/blob/main/create.png) <br>
